@@ -1,4 +1,4 @@
-# tres-mouse-controls
+# tres-starter-simple
 
 > A TresJS Vue application
 
